@@ -5,3 +5,4 @@ pillow
 scikit-learn
 av
 streamlit-webrtc
+matplotlib
