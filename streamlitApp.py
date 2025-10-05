@@ -1,6 +1,6 @@
 # streamlit_app.py
 # App única con 11 mini-demos basados en "OpenCV 3.x with Python By Example"
-# Autor: adaptado para Imanol - Demo para clase
+# Autor:  Imanol 
 import streamlit as st
 import cv2
 import numpy as np
@@ -1301,8 +1301,9 @@ st.markdown("""
     <hr>
     <p>📚 Proyecto académico de visión por computadora — basado en "OpenCV 3.x with Python by Example".</p>
     <p>Desarrollado con ❤️ por <b>Imanol Polonio</b></p>
-    <p><b>Univseridad Nacional de Trujillo</b></p>
+    <p><b>Universidad Nacional de Trujillo</b></p>
     
 </div>
 """, unsafe_allow_html=True)
+
 
