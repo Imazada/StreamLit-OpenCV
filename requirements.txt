@@ -1,8 +1,8 @@
-streamlit
-opencv-python-headless
-numpy
-pillow
-scikit-learn
-av
-streamlit-webrtc
-matplotlib
+streamlit==1.50.0
+streamlit-webrtc==0.63.5
+opencv-python-headless==4.12.0.88
+numpy==2.2.6
+pillow==11.3.0
+scikit-learn==1.7.2
+av==14.4.0
+matplotlib==3.10.6
